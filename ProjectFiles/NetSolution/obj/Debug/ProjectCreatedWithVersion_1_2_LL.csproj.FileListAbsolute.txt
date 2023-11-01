@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\bin\ProjectCreatedWithVersion_1_2_LL.deps.json
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\bin\ProjectCreatedWithVersion_1_2_LL.dll
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\bin\ProjectCreatedWithVersion_1_2_LL.pdb
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.dll
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\refint\ProjectCreatedWithVersion_1_2_LL.dll
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ProjectCreatedWithVersion_1_2_LL.pdb
+C:\Users\Admin\Desktop\sever\ProjectCreatedWithVersion_1_2_LL\ProjectFiles\NetSolution\obj\Debug\ref\ProjectCreatedWithVersion_1_2_LL.dll

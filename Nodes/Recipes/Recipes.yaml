@@ -1,0 +1,88 @@
+Name: Recipes
+Type: RecipesCategoryFolder
+Children:
+- Name: RecipeSchema1
+  Id: g=8e06e08a45d5d9503721038dc9d42e1b
+  Type: RecipeSchema
+  Children:
+  - Name: Root
+    Type: BaseObjectType
+    Children:
+    - Name: Speed_中é
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+    - Name: Acc_中é
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+  - Class: Reference
+    Target: ns=13;i=27
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=33
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=31
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=44
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=35
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=37
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=76
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=53
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=62
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=55
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=58
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=60
+    Direction: Forward
+  - Name: TargetNode
+    Type: NodePointer
+    DataType: NodeId
+    Value: {"IdType":2,"Id":"57657dbdedad951c19991ce8c36773e9","Namespace":22}
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"IdType":0,"Id":0,"Namespace":-1}
+  - Name: Store
+    Type: NodePointer
+    DataType: NodeId
+    Value: {"IdType":2,"Id":"9d3af0cbcbe3968fe27e99d4d1c24a82","Namespace":22}
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"Id":1,"Namespace":7}
+  - Name: EditModel
+    Id: g=003da1cd085f500e8b0a28c91a4ab338
+    Type: BaseObjectType
+    Children:
+    - Name: Speed_中é
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+    - Name: Acc_中é
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 0
+  - Name: TableName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: ""
