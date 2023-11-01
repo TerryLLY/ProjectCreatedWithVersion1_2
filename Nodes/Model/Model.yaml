@@ -1,0 +1,37 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: DigitalVariable_中é
+  Id: g=283718f121913e8b30c16d12fb43a235
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: LevelVariable_中é
+  Id: g=c99016220a92d569dce7b9ad9b175184
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 50
+- Name: DeviationVariable_中é
+  Id: g=766d4fb93fdf5f494b205432227f2ce1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 10
+- Name: RateVariable_中é
+  Id: g=31e2c29c27a2b0454fffa358baf418ea
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Motor_中é
+  Id: g=57657dbdedad951c19991ce8c36773e9
+  Type: BaseObjectType
+  Children:
+  - Name: Speed_中é
+    Id: g=b1927b3463371486051675316d00b48f
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acc_中é
+    Id: g=47096ef6180b7ffe96f9bd7222b48631
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
